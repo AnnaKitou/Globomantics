@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Globomantics.Domain", "Glob
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Globomantics.Infrastructure", "Globomantics.Infrastructure\Globomantics.Infrastructure.csproj", "{0BD7394C-8305-48D4-8608-0A962ADED39D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Globomantics.Windows", "..\c-sharp-building-real-world-application\src\Start_Here\Globomantics.Windows\Globomantics.Windows.csproj", "{BE9577D3-A974-4A2A-83A5-3BA468DF8E13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Globomantics.Windows", "Globomantics.Windows\Globomantics.Windows.csproj", "{37DAD979-08DF-4D69-BE9B-337A036EC1E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{0BD7394C-8305-48D4-8608-0A962ADED39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BD7394C-8305-48D4-8608-0A962ADED39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BD7394C-8305-48D4-8608-0A962ADED39D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BE9577D3-A974-4A2A-83A5-3BA468DF8E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BE9577D3-A974-4A2A-83A5-3BA468DF8E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BE9577D3-A974-4A2A-83A5-3BA468DF8E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BE9577D3-A974-4A2A-83A5-3BA468DF8E13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37DAD979-08DF-4D69-BE9B-337A036EC1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DAD979-08DF-4D69-BE9B-337A036EC1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DAD979-08DF-4D69-BE9B-337A036EC1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DAD979-08DF-4D69-BE9B-337A036EC1E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
