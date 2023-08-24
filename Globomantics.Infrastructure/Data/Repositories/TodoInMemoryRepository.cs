@@ -35,6 +35,7 @@ public class TodoInMemoryRepository<T> : IRepository<T>
 
 	public Task SaveChangesAsync()
 	{
-		return Task.CompletedTask;
+		return 
+			Task.CompletedTask;
 	}
 }
